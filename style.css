@@ -6,7 +6,7 @@
 }
 
 body{
-background-image:linear-gradient(120deg,#2980b9,#f1c40f); 
+background-image:linear-gradient(120deg,#abc8db,#f8c291 ); 
 min-height: 100vh;
 }
 
@@ -28,7 +28,12 @@ min-height: 100vh;
 
 h3{
     margin: 10px 0;
+    font-family: 'Aref Ruqaa', serif;
+    font-size: 25px;
+
 }
+
+
 
 .task{
     width: 100%;
@@ -46,4 +51,14 @@ h3{
 .comp .task{
     background: rgb(0, 0, 0,.5);
     color: #fff;
+}
+
+
+h2 {
+    text-align:center;
+    margin: 10px 0;
+    font-family: 'Nosifer', cursive;
+    font-size: 35px;
+    color: #0c2461;
+
 }
